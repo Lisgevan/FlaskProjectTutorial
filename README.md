@@ -1,2 +1,2 @@
 # FlaskProjectTutorial
-Tutorial fromthe official flask website to walk through creating a basic blog application called Flaskr. Users will be able to register, log in, create posts, and edit or delete their own posts. You will be able to package and install the application on other computers.
+Tutorial from the official flask website to walk through creating a basic blog application called Flaskr. Users will be able to register, log in, create posts, and edit or delete their own posts. You will be able to package and install the application on other computers.
